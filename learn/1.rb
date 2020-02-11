@@ -2,3 +2,9 @@
 # ruby 1.rb
 # into your command-line interface.
 
+
+how_many = 5
+who = "brian would like"
+what = "tacos"
+
+puts "#{who} #{how_many} #{what}"
